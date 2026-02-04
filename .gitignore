@@ -1,5 +1,26 @@
+# Virtual Environment
 .venv/
 venv/
+env/
+
+# Python cache
 __pycache__/
 *.pyc
-.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Build / Logs
+*.log
+
+# Large ML models (optional)
+*.h5
+*.pt
+*.pth
+
+# Jupyter
+.ipynb_checkpoints
