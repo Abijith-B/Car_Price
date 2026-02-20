@@ -14,6 +14,9 @@ The prediction is powered by a trained Random Forest Regression model.
 
 Sample Vedio
 
+![Uploading Car_pred vedio.gif…]()
+
+
 📌 Features
 
 ✅ Predict car resale price instantly
