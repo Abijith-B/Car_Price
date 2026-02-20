@@ -28,7 +28,7 @@ Features
 ✅ Model saved using Pickle (rfr_model.pkl)
 ✅ Deployed and hosted on Railway
 
-🛠️ Tech Stack
+ Tech Stack
 
 Frontend: HTML, CSS, Bootstrap
 
@@ -40,7 +40,7 @@ Model Storage: Pickle (.pkl file)
 
 Deployment: Railway
 
-📊 How It Works
+ How It Works
 
 1️   User enters car details in the form
 2️   Flask processes the input data
@@ -77,7 +77,7 @@ python app.py
 Now open your browser and go to:
 
 http://127.0.0.1:5000/
-🚀 Deployment
+ Deployment
 
 This project is deployed using Railway with:
 
