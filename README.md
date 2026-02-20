@@ -14,7 +14,8 @@ The prediction is powered by a trained Random Forest Regression model.
 
 Sample Vedio
 
-![Uploading Car_pred vedio.gif…]()
+![Car_pred vedio](https://github.com/user-attachments/assets/e518e620-4c11-470a-b075-99e9e3cd7d8d)
+
 
 
 📌 Features
