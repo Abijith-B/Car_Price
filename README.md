@@ -11,6 +11,9 @@ The prediction is powered by a trained Random Forest Regression model.
 
 🔗 https://web-production-23a82.up.railway.app/
 
+
+Sample Vedio
+
 📌 Features
 
 ✅ Predict car resale price instantly
