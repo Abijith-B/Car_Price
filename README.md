@@ -1,5 +1,5 @@
-🚗 Car Price Prediction (Flask Project)
-💰 Machine Learning Based Car Price Prediction Web App
+Car Price Prediction (Flask Project)
+Machine Learning Based Car Price Prediction Web App
 
 A full-stack Car Price Prediction Web Application built using Flask and deployed on Railway.
 This application predicts the resale price of a car based on user inputs such as year, fuel type, transmission, seller type, kilometers driven, and more.
@@ -7,7 +7,7 @@ This application predicts the resale price of a car based on user inputs such as
 The prediction is powered by a trained Random Forest Regression model.
 
 
-🌐 Live Demo
+ Live Demo
 
 🔗 https://web-production-23a82.up.railway.app/
 
@@ -18,7 +18,7 @@ Sample Vedio
 
 
 
-📌 Features
+Features
 
 ✅ Predict car resale price instantly
 ✅ Machine Learning model integration (Random Forest Regressor)
@@ -42,13 +42,13 @@ Deployment: Railway
 
 📊 How It Works
 
-1️⃣ User enters car details in the form
-2️⃣ Flask processes the input data
-3️⃣ Data is transformed into model-ready format
-4️⃣ The trained Random Forest model predicts the price
-5️⃣ Predicted price is displayed on the webpage
+1️   User enters car details in the form
+2️   Flask processes the input data
+3️   Data is transformed into model-ready format
+4️   The trained Random Forest model predicts the price
+5️   Predicted price is displayed on the webpage
 
-📂 Project Structure
+Project Structure
 Car_Price-main/
 │
 ├── app.py               # Main Flask application
@@ -59,19 +59,19 @@ Car_Price-main/
 └── templates/           # HTML templates
 
 ⚙️ Local Setup Instructions
-1️⃣ Clone the Repository
+1️  Clone the Repository
 git clone <YOUR_GITHUB_REPO_LINK>
 cd Car_Price-main
-2️⃣ Create Virtual Environment
+2️  Create Virtual Environment
 python -m venv venv
 venv\Scripts\activate
 
 (Mac/Linux)
 
 source venv/bin/activate
-3️⃣ Install Required Dependencies
+3️  Install Required Dependencies
 pip install -r requirements.txt
-4️⃣ Run the Flask App
+4️  Run the Flask App
 python app.py
 
 Now open your browser and go to:
